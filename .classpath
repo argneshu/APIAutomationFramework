@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/activation.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/java-client-2.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/java-json.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/jOpenDocument-1.4rc1.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/mail.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/mysql-connector-java-3.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/super-csv-2.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Repository/API/ApiAutomationSuite/Lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
